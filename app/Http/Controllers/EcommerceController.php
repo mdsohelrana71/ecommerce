@@ -41,4 +41,7 @@ class EcommerceController extends Controller
             'categoryProducts' =>$categoryProducts
         ]);
     }
+    public function newTest(){
+        
+    }
 }
